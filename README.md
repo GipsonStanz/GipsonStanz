@@ -4,7 +4,7 @@
 I'm an IT professional with 4 years of experience, specializing in .NET full-stack development. Passionate about technology, coding, and my startup in native pure honey production. Currently, I'm exploring React.js and Docker.
 
 ## 💻 Tech Stack
-- **Languages & Frameworks:** C#, .NET, ASP.NET, JavaScript, HTML, CSS
+- **Languages & Frameworks:** C#, .NET, ASP.NET, JavaScript, HTML, CSS.
 - **Databases:** SQL Server, MySQL
 - **Other Technologies:** REST API, Core API, Worker Service, WCF Service, Web Service, Docker
 
