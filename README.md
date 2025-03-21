@@ -1,5 +1,5 @@
 # 🌟 Hi, I'm Gipson! 🌟
-###### .NET Full-Stack Developer | Aspiring Entrepreneur
+###### .NET Full-Stack Developer | RAX Tech International
 ---
 *Welcome to my corner of GitHub!*
 
@@ -16,8 +16,11 @@ Hello there! 👋 I'm a **.NET Full Stack Developer** with ***four years of prof
 - **Databases:** SQL Server, MySQL
 - **Other Technologies:** REST API, Core API, Worker Service, WCF Service, Web Service, Docker
 
+#### I Code in
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/> <img width="48" height="48" src="https://img.icons8.com/color/48/sql.png" alt="SQL Server"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/> <img width="48" height="48" src="https://img.icons8.com/color/48/asp-net.png" alt="ASP.NET"/> <img width="48" height="48" src="https://img.icons8.com/color/48/asp.png" alt="ASP.NET Core"/>
+
 #### 🔧 IDE and Tools I Use
-<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-2019.png" alt="Visual Studio"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio.png" alt="Visual Studio"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="Canva"/>
 
 #### 📌 Projects
 - **.NET Applications** - Building full-stack solutions using C# and .NET.
